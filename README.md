@@ -12,7 +12,7 @@ what our users need. Thanks!
 ## Installation
 
 ```sh
-go get -u github.com/yanchen01/throttled
+go get -u github.com/fearlesschenc/throttled
 ```
 
 ## Documentation
